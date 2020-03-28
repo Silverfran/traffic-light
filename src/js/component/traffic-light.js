@@ -5,7 +5,7 @@ export function Example() {
 
 	return (
 		<div className="container">
-			<div className="row bg-light justify-content-sm-center no-gutters">
+			<div className="row justify-content-sm-center no-gutters">
 				<div className="col-auto p-4 m-4 bg-dark d-flex-inline flex-wrap mx-auto">
 					<div
 						className={`${
